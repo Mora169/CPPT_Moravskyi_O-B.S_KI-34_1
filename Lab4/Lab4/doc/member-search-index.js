@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI304MoravskyLab4","c":"ExeptionAndCalc","l":"ExeptionAndCalc()","u":"%3Cinit%3E()"},{"p":"KI304MoravskyLab4","c":"ExeptionAndCalc","l":"ExeptionAndCalc(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();
