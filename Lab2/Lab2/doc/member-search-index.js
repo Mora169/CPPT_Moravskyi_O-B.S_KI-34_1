@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI304MoravskyLab2","c":"monitor","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"KI304MoravskyLab2","c":"monitor","l":"monitor()","u":"%3Cinit%3E()"}];updateSearchResults();
